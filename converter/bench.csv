@@ -1,0 +1,8 @@
+case,window_s,heater_kw,heater_start_s,heater_end_s,air_start_s,air_end_s,measured_tailpipe_co_g
+Base,500,0,0,0,0,0,6.39
+Case 1,500,1,-20,100,0,0,3.39
+Case 2,500,1,-20,100,-20,0,2.38
+Case 3,500,1,-20,100,-20,100,2.68
+Case 4,500,1,-20,70,-20,70,2.97
+Case 5,500,1,-50,70,-50,70,1.48
+Case 6,500,1,-50,30,-50,30,2.19
